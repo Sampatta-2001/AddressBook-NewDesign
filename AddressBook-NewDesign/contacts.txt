@@ -1,0 +1,8 @@
+7
+John Doe,1234567890,john@example.com
+Alice Smith,0987654321,alice@example.com
+Sophia Martin,5434768767,sophia@gmail.com
+Sam Altman,6545678976,ram123@gmail.com
+Sham Patil,4532324567,sham@gmail.com
+Ram Patil,7645678765,ram@gmail.com
+Sanjana Patil,4373453787,sanju@gmail.com
